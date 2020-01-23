@@ -1,0 +1,6 @@
+com\ssingment\webcrawler\model\PageDetails.class
+com\ssingment\webcrawler\model\DeepCrawlingModel.class
+com\ssingment\webcrawler\applicationImpl\WebcrawlerApplicationLogic.class
+com\ssingment\webcrawler\controller\WebCrawlerController.class
+com\ssingment\webcrawler\WebcrawlerApplication.class
+com\ssingment\webcrawler\application\WebcrawlerApplicationLogicInterface.class

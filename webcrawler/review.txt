@@ -1,0 +1,28 @@
+git config core.autocrlf true
+
+response: 
+{
+                "total_links": "",
+                "total_images": "",
+                "details": [{
+                                                "page_title": "",
+                                                "page_link": "",
+                                                "image_count": ""
+                                },
+                                {
+                                                "page_title": "",
+                                                "page_link": "",
+                                                "image_count": ""
+                                }
+                ]
+}
+ 
+
+ to do :
+ refactoring of code , 
+ images count of sublink
+ async use for non blocking requests
+ completable future use.
+ checking for redundant links check
+ 
+ 
